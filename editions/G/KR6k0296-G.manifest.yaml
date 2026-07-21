@@ -19,17 +19,17 @@ metadata:
     short: G
 assets:
   parts:
-  - {seq: 0, filename: KR6k0296_000-G.yaml, hash: 'sha256:54eda70a88a343781cbc6fbae4bcb238a6f5ee6bf536685f156f719b4c48555c'}
+  - {seq: 0, filename: KR6k0296_000-G.yaml, hash: 'sha256:c1a952ad9ff5a5f2a8e641dff8caa593dc21192ab8b1daefcb0441ccdd3fe2be'}
   - {seq: 1, filename: KR6k0296_001-G.yaml, hash: 'sha256:74fef1de7ca430d307ac4dba8da3cfef92865bd3260b2f7854b6aa95e48a8a25'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6k0296_000-G.markers.yaml, hash: 'sha256:3ef2147029fb91753982a9c621b59f7843ca44e86703ef7f5350c40688ff1d02'}
+  - {seq: 0, role: markers, filename: assets/KR6k0296_000-G.markers.yaml, hash: 'sha256:d870c418dbb784087aacd4010ed6e8d992843d86886ea93d24552167d8d63a5a'}
   - {seq: 1, role: markers, filename: assets/KR6k0296_001-G.markers.yaml, hash: 'sha256:83d2d37e45dba2eadf20ea8a52f3d2de35927b9e40439b88015142df2a6fbf7e'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6k0296_G_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 凡例
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6k0296_G_000-mulu-2
     span:
-    - front
+    - body
     - 306
     - 306
   label: 目錄
@@ -235,4 +235,4 @@ table_of_contents:
   label: 附錄　食罷發願法
   type: mulu
   level: 1
-hash: sha256:71e839310bd42d336ebe17043d8e9039cfa1cd737e912aa98de4d9f62b58a47d
+hash: sha256:8915311551703a5a4d01982640f256a9183e1a8f1a60a987a05e116e8ac416b0
